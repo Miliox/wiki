@@ -1,10 +1,9 @@
-Knowledge Pit
-=============
+# Knowledge Pit
 Where all knowledge is put to be forgot
 
-Summary
--------
-1. Algorithms
+## Summary
+
+### 1. Algorithms
     1. Complexity
     2. Search
     3. Sorting
@@ -12,7 +11,7 @@ Summary
     5. Graphs
     6. Recursion
 
-2. Data Structures
+### 2. Data Structures
     1. Arrays
     2. Records
     3. Lists
@@ -22,21 +21,21 @@ Summary
     7. HashTable
     8. Set
 
-3. Artificial Inteligence
+### 3. Artificial Inteligence
 
-4. Information Theory
+### 4. Information Theory
 
-5. Cryptography
+### 5. Cryptography
 
-6. Operation Systems
+### 6. Operation Systems
 
-7. Computer Graphics
+### 7. Computer Graphics
 
-8. Computer Vision
+### 8. Computer Vision
 
-9. Software Development
+### 9. Software Development
 
-10. Programming Languages
+### 10. Programming Languages
     1. C/C++
     2. D
     3. Java
@@ -57,42 +56,42 @@ Summary
     18. Prolog
     19. Lua
 
-11. Network Programming
+### 11. Network Programming
     1. POSIX
     2. Win32 API
     3. Java API
     4. Erlang
 
-12. Parallel Programming
+### 12. Parallel Programming
     1. POSIX
     2. Win32 API
 
-13. Distributed Systems
+### 13. Distributed Systems
 
-14. Numeric Programming
+### 14. Numeric Programming
 
-15. Game Programming
+### 15. Game Programming
     1. Game Loop
 
-16. Mobile Programming
+### 16. Mobile Programming
     1. Android Development
     2. J2ME Development
     3. IOS Development
     4. Windows Phone Development
 
-17. Embedded Programming
+### 17. Embedded Programming
     1. Arduino
     2. Raspberry-pi
 
-18. Graphics Programming
+### 18. Graphics Programming
     1. DirectX
     2. OpenGL
 
-19. GPGPU Programming
+### 19. GPGPU Programming
     1. CUDA
     2. OpenCL
 
-20. GUI Programming
+### 20. GUI Programming
     1. Win32 API
     2. X11
     3. Java Swing
